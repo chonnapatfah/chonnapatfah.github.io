@@ -9,8 +9,8 @@ chonnapat
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+นักศึกษาชั่นปีที่4 สาขาวิทยากาาคอมพิวเตอร์ คณะวิทยาการคอมพิวเตอร์ มหาลัยราชภัฎอุบลราชธานี
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+E-mali : chonnapat.ccs57@ubru.ac.th

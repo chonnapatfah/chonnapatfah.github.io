@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+chonnapat
+57122420417
 
 ### More Information
 

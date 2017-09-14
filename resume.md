@@ -3,6 +3,7 @@ layout: page
 title: my resume
 permalink: /resume/
 ---
+
 name : chonnapat
 nickname : fah
 Age : 22
